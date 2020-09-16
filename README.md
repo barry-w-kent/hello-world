@@ -1,2 +1,3 @@
 # hello-world
-Barry'y Repository
+Barry's Repository
+Learning how to use github
